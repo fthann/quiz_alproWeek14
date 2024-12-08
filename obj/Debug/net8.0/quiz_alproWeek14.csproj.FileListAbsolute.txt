@@ -12,3 +12,4 @@ C:\Users\Rado\quiz_alproWeek14\obj\Debug\net8.0\refint\quiz_alproWeek14.dll
 C:\Users\Rado\quiz_alproWeek14\obj\Debug\net8.0\quiz_alproWeek14.pdb
 C:\Users\Rado\quiz_alproWeek14\obj\Debug\net8.0\quiz_alproWeek14.genruntimeconfig.cache
 C:\Users\Rado\quiz_alproWeek14\obj\Debug\net8.0\ref\quiz_alproWeek14.dll
+C:\Users\Rado\quiz_alproWeek14\obj\Debug\net8.0\quiz_alproWeek14.sourcelink.json

@@ -33,7 +33,10 @@ namespace MyApp
                 {
                     Console.WriteLine("Error: input harus berupa angka.");
                 }    
-                
+
+            finally {
+                    Console.WriteLine("Yeay program telah selesaii!!");
+            }    
         } 
     }
 }
